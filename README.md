@@ -33,6 +33,6 @@ Dispositivo inteligente basado en **ESP32** para la gestión y dispensación aut
 * Haz clic en el botón **Subir** (si es necesario, mantén presionado el botón **BOOT** de la placa durante la conexión).
 
 
-Nota de solución de problemas (Upload): Si surge algún error al realizar el Upload del código, abre el Administrador de dispositivos en Windows para verificar que los controladores estén actualizados (comúnmente el controlador del chip CP210x requiere actualización). Si es necesario, descarga el instalador para Windows (versión x64) desde la página oficial de Silicon Labs, descomprímelo e instálalo para restablecer la comunicación correcta con la placa.
+**Nota de solución de problemas (Upload):** Si surge algún error al realizar el Upload del código, abre el Administrador de dispositivos en Windows para verificar que los controladores estén actualizados (comúnmente el controlador del chip CP210x requiere actualización). Si es necesario, descarga el instalador para Windows (versión x64) desde la página oficial de Silicon Labs, descomprímelo e instálalo para restablecer la comunicación correcta con la placa.
 
-URL Driver:https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+**URL Driver:** https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
